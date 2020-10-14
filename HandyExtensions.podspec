@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HandyExtensions'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of HandyExtensions.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Yinjianhua472392556/HandyExtensions'
+  s.homepage         = 'https://github.com/Yinjianhua472392556/handyextensions'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Yinjianhua472392556' => 'jianhuayin@thetiger.com.cn' }
